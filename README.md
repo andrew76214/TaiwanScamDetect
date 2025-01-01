@@ -17,7 +17,3 @@ Made with [contrib.rocks](https://contrib.rocks).
 ## poster
 ![image](https://github.com/andrew76214/TaiwanScamDetect/blob/main/poster/data.jpg)
 ![image](https://github.com/andrew76214/TaiwanScamDetect/blob/main/poster/modeling.jpg)
-
-----
-test1
-
