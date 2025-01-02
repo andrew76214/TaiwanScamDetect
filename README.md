@@ -5,8 +5,6 @@ Taiwan Scam Detection, NLP
   <img src="https://contrib.rocks/image?repo=andrew76214/TaiwanScamDetect" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
-
 ## Number of data in each category
 *Update on 12/23*
 1. Work : 5773
