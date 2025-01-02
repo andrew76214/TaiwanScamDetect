@@ -1,4 +1,4 @@
-# TaiwanScamDetect
+# ThreadsScamDetector
 Taiwan Scam Detection, NLP
 
 ## Number of data in each category
