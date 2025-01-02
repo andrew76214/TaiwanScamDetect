@@ -1,10 +1,6 @@
 # TaiwanScamDetect
 Taiwan Scam Detection, NLP
 
-<a href="https://github.com/andrew76214/TaiwanScamDetect/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=andrew76214/TaiwanScamDetect" />
-</a>
-
 ## Number of data in each category
 *Update on 12/23*
 1. Work : 5773
